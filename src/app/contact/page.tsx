@@ -1,7 +1,8 @@
-'use client';
+'use client'
 
 import { Meteors } from '@/components/ui/meteors';
-import React, { FormEvent, useState } from 'react';
+import React from 'react'
+import { FormEvent, useState } from 'react'
 
 
 function contact() {
