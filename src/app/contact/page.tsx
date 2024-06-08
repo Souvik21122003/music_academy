@@ -5,7 +5,7 @@ import React from 'react'
 import { FormEvent, useState } from 'react'
 
 
-function contact() {
+function Contact() {
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
 
