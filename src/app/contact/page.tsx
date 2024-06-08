@@ -1,9 +1,18 @@
-'use client';
+'use client'
 
+<<<<<<< HEAD
 import React, { FormEvent, useState } from 'react';
 import { BackgroundBeams } from '@/components/ui/background-beams';
 
 function MusicSchoolContactUs() {
+=======
+import { Meteors } from '@/components/ui/meteors';
+import React from 'react'
+import { FormEvent, useState } from 'react'
+
+
+function Contact() {
+>>>>>>> 352a6f2b957f7476b54143c56ab788c1bcdb1f93
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
 
@@ -59,4 +68,8 @@ function MusicSchoolContactUs() {
   );
 }
 
+<<<<<<< HEAD
 export default MusicSchoolContactUs;
+=======
+export default contact;
+>>>>>>> 352a6f2b957f7476b54143c56ab788c1bcdb1f93
