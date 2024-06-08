@@ -58,8 +58,5 @@ function Page() {
   )
 }
 
-<<<<<<< HEAD
 export default Page
-=======
-export default Page
->>>>>>> 352a6f2b957f7476b54143c56ab788c1bcdb1f93
+
